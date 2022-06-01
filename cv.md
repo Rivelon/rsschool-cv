@@ -33,3 +33,18 @@ Responsibility  ---  clear goals  ---  patience --- perseverance.
 - rest api, postman 
 - Adobe (photoshop, premiere, after effects, audition) 
 - Photo and Video shooting (3 years of experience)
+
+## EDUCATION
+
+**January 2022 – March 2022**
+
+	Offline internship at IntexSoft at the Full Stack JS course "React + Node.js"
+
+   
+---
+## Additional materials
+- Book - Learn HTML and CSS by Eric Freeman, Elizabeth Robson 
+- Book - Learn JavaScript Programming by Eric Freeman, Elizabeth Robson
+- Book - The New CSS Big Book by David McFarland
+- React course “Way of the Samurai”, youtube channel “it-kamasutra”
+- Courses from youtube channel “Ulbi TV”
