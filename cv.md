@@ -3,3 +3,17 @@
 **Junior FULL-STACK WEB DEVELOPER** \
 26 YEARS OLD/ 
 FROM BELARUS, GRODNO 
+
+---
+# CONTACTS:
+**Phone:** +375298646993 _(viber, telegram, WhatsApp)_ \
+**e-mail:** rivelon22@gmail.com \
+[instagram](https://www.instagram.com/artem_drigencha)
+
+---
+## PROFILE INFO
+Full-stack web developer, I have experience in creating SPA with 
+React/ Redux/ TypeScript. Now I am improving my skills in this
+direction and expanding them with new technologies.
+I wood like to find a full-time job in a creative company with
+modern tasks and team!
